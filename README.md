@@ -2,7 +2,7 @@
 
 💻 Learning HTML, CSS, JavaScript & React  
 📡 Interested in Networking & Infrastructure  
-🎯 Building projects to land a tech role
+🎯 Building projects to land a tech role 
 🎲 Currently ambracing self paced courses
 
 ## Tech Stack
