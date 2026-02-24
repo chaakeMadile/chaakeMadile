@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Madile, an aspiring Software / Network Engineer👋
 
-<!--
-**chaakeMadile/chaakeMadile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Learning HTML, CSS, JavaScript & React  
+📡 Interested in Networking & Infrastructure  
+🎯 Building projects to land a tech role
+🎲 Currently ambracing self paced courses
 
-Here are some ideas to get you started:
+## Tech Stack
+- HTML5/XML
+- CSS3
+- JavaScript/ JSON
+- React, Next.js, MongoDB, Express (learning)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Portfolio website
+- Beginner React projects
+- Networking labs (CCNA-style)
