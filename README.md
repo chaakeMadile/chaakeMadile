@@ -10,7 +10,7 @@
 - HTML5/JSON
 - CSS3
 - JavaScript (ES6+)
-- React, Next.js, MongoDB, Express (learning)
+- React, Next.js, MySQL, SpringBoot (learning)
 - Git & GitHub
 
 ## Currently Working On
