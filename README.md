@@ -16,4 +16,5 @@
 ## Currently Working On
 - Portfolio website
 - Beginner React projects
+- AWS Cloud Practioner Cert
 - Networking labs (CCNA-style)
