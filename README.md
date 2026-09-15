@@ -1,4 +1,4 @@
-## Hi, I'm Madile, an aspiring Software / Network Engineer👋
+## Hi, I'm Madile, an DevOps Engineer👋
 
 🎲 Currently ambracing self paced courses
 💻 Learning HTML, CSS, JavaScript & React  
